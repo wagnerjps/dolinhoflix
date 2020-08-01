@@ -10,14 +10,14 @@ const Menu = () => {
             <a href='/'>
                 <img src={Logo} className='Logo' alt='DolinhoFlix' />
             </a>
-            <Button as="a" href='/'>
+            <Button href='/'>
                 Novo Vídeo
             </Button>
-            {/**
-            <ButtonLink className={ButtonLink} href='/'>
+            
+            {/* <ButtonLink className={ButtonLink} href='/'>
                 Novo Vídeo
-            </ButtonLink>
-             */}
+            </ButtonLink> */}
+            
         </nav>
     )
 }

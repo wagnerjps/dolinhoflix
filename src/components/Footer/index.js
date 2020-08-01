@@ -1,12 +1,12 @@
 import React from 'react';
-import { FooterBase } from './styles';
+import { FooterBase, FooterImage } from './styles';
 import Logo from '../../assets/img/dolinhoflix.png'
 
 function Footer() {
   return (
     <FooterBase>
       <a href="https://www.alura.com.br/">
-        <img src={Logo} alt="DolinhoFlix" />
+        <FooterImage src={Logo} alt="DolinhoFlix" />
       </a>
       <p>
         Orgulhosamente criado durante a

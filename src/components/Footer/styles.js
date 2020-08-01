@@ -11,6 +11,16 @@ export const FooterBase = styled.footer`
   color: var(--white);
   text-align: center;
   @media (max-width: 800px) {
-    margin-bottom: 50px;
+    margin-bottom: 30px;
+  }
+`;
+
+export const FooterImage = styled.img`
+
+  width: 150px;
+  padding: 5px;
+
+  @media (max-width: 800px) {
+    margin-bottom: 10px;
   }
 `;

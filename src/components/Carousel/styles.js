@@ -41,6 +41,32 @@ export const VideoCardList = styled.ul`
   display: flex;
   overflow-x: auto;
   flex-direction: row;
+
+  &::-webkit-scrollbar {
+    height: 6px;
+  }
+
+  &::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 2px rgba(0,0,0,0.3); 
+    border-radius: 10px;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    box-shadow: inset 0 0 2px rgba(0,0,0,0.5);
+    background-color: darkgrey;
+    outline: 0px solid slategrey;
+  }
+
+  &::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }
+
+  @media (max-width: 800px) {
+    &::-webkit-scrollbar {
+      height: 2px;
+    }
+  }
   
   li {
     margin-right: 16px;

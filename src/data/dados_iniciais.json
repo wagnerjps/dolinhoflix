@@ -1,0 +1,193 @@
+{
+  "categorias": [
+    {
+      "titulo": "Jogos de cabra macho",
+      "cor": "#8B0000",
+      "link_extra": {
+        "text": "Cursos de Back End na Alura",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      },
+      "videos": [
+        {
+          "titulo": "Dark Souls 2 - Opening Cinematic [1080p HD]",
+          "url": "https://www.youtube.com/watch?v=adBj5_lXngE"
+        },
+        {
+          "titulo": "A HISTÓRIA DE BLOODBORNE",
+          "url": "https://www.youtube.com/watch?v=hGEs-EgYAbg"
+        },
+        {
+          "titulo": "História da saga: Dark Souls - (Análise)",
+          "url": "https://www.youtube.com/watch?v=ydNyShJzbug"
+        },
+        {
+          "titulo": "Universo da saga Dark Souls - (Análise)",
+          "url": "https://www.youtube.com/watch?v=Naa3prfzdEA"
+        },
+        {
+          "titulo": "História do jogo: Demon's Souls - (Análise)",
+          "url": "https://www.youtube.com/watch?v=bzfSxHa03Ss"
+        },
+        {
+          "titulo": "A HISTÓRIA DE SEKIRO",
+          "url": "https://www.youtube.com/watch?v=0Vul7XN_8SU"
+        },
+        {
+          "titulo": "Dark Souls 2 Opening Cinematic Cutscene Trailer",
+          "url": "https://www.youtube.com/watch?v=uhY7sfQHUpw"
+        }
+      ]
+    },
+    {
+      "titulo": "Carrin não",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#FF00FF",
+      "link_extra": {
+        "text": "Jogos de carrin do jeitin que dolin gostcha",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      },
+      "videos": [
+        {
+          "titulo": "FORZA HORIZON 1 - O Início da Série! (DUBLADO PT-BR)",
+          "url": "https://www.youtube.com/watch?v=_pRuoqisFFk"
+        },
+        {
+          "titulo": "FORZA HORIZON 2 - O Início da Série! (DUBLADO PT-BR)",
+          "url": "https://www.youtube.com/watch?v=YSj7o7XFC7Q&t=36s"
+        },
+        {
+          "titulo": "FORZA HORIZON 3 - O Início da Série! (DUBLADO PT-BR)",
+          "url": "https://www.youtube.com/watch?v=ACddk5udoK0"
+        } ,
+        {
+          "titulo": "FORZA HORIZON 4 - O Início da Série! (EDIÇÃO SUPREMA)",
+          "url": "https://www.youtube.com/watch?v=kmwz8EYn5HM"
+        } ,
+        {
+          "titulo": "Forza Horizon 5 - OFFICIAL TRAILER | E3 | 2020 | 4K FH5",
+          "url": "https://www.youtube.com/watch?v=slUOkbI7rSs"
+        } ,
+        {
+          "titulo": "FORZA 6 - Gameplay da Demo!!! (Forza Motorsport 6 Demo Xbox One)",
+          "url": "https://www.youtube.com/watch?v=2z097nwq9wM"
+        }      
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "#A020F0",
+      "link_extra": {
+        "text": "Filmes de jogos",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      },
+      "videos": [
+        {
+          "titulo": "WARCRAFT: O PRIMEIRO ENCONTRO DE DOIS MUNDOS é bom? - Vale Crítica",
+          "url": "https://www.youtube.com/watch?v=5-uloHgPjrc"
+        },
+        {
+          "titulo": "Saga Resident Evil | Entenda a História dos Filmes | PT. 1",
+          "url": "https://www.youtube.com/watch?v=jpyJMkQXcvM"
+        },
+        {
+          "titulo": "TOMB RAIDER: A ORIGEM é bom? - Vale Crítica",
+          "url": "https://www.youtube.com/watch?v=kCTio7QG3sg"
+        },
+        {
+          "titulo": "Mortal Kombat o Filme - Liu Kang Vs Shang Tsung",
+          "url": "https://www.youtube.com/watch?v=Twe2wbXQpl8"
+        },
+        {
+          "titulo": "Assassin's Creed | Trailer Oficial | Legendado HD",
+          "url": "https://www.youtube.com/watch?v=jTgzJ79KDsg"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Dolinho Presents",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      },
+      "videos": [
+        {
+          "titulo": "Interestellar",
+          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+        },
+        {
+          "titulo": "Gattaca",
+          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+        },
+        {
+          "titulo": "A Chegada",
+          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+        },
+        {
+          "titulo": "Feitiço do Tempo",
+          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "red",
+      "link_extra": {
+        "text": "Formação de Jogos na Alura",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "Final Fantasy 7",
+          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+        },
+        {
+          "titulo": "Assassins Creed Valhalla",
+          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+        },
+        {
+          "titulo": "God of War 4",
+          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+        },
+        {
+          "titulo": "Resident Evil 8",
+          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+        },
+        {
+          "titulo": "Pokémon Let's Go Pikachu/Eevee",
+          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+        }
+      ]
+    },
+    {
+      "titulo": "Aprendendo a aprender tecnologia",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}
